@@ -1,0 +1,28 @@
+segment_sources:
+  P7452310F:
+    type: origin_type
+    relation: translation
+    language: en
+  P2BC96978:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5814ebba7ab24fdfb83b9cd7e0efecdf:
+    P7452310F: b003c563c1c249a6a2d03cdd2d2971fb
+    P2BC96978: c89dce4f6a324941abf0a30e93b97313
+  0f75f2a50d6c481c8fe6a4a9c8c0abc0:
+    P7452310F: a4692b6cffa54883bf8264c7874c71b5
+    P2BC96978: 86d4bab419264c07bd02c7c24b153f3e
+  5a5202d3f22e4543aeba5359f56244cb:
+    P7452310F: dedf2e2ebc234aa2b95c1d7c60785886
+    P2BC96978: f9429a70f65346538ed33c9d321b330e
+  80ae964399ea4ec8be80a20ed4ba2256:
+    P7452310F: 3b6eabcaaae94358b888f262fb962dd1
+    P2BC96978: 8422a276beea40798d2a879e7fa9431d
+  92cddd4ef8fd44f096337457e1090414:
+    P7452310F: c10328b4ae804763a43c6540e85383d6
+    P2BC96978: 8627cae9299c43aa96fbc589afb32d90
+  95f7d910adea49eeb3bafec9eb188772:
+    P7452310F: 6000b689ecab4dfd8a3385a8d57a0c4a
+    P2BC96978: 3a06bdd8a5784bb48ca0fe05b7631fa4
